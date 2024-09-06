@@ -327,8 +327,8 @@ nav .logo img {
 
 /* HERO PAGE */
 .heroPage {
-  height: 80vh;
-  background: url("main-assets/Best-HP-Laptops-Under-Rs.-30000-.jpg");
+  height: 100vh;
+  background: url("Hero-Image.jpg");
   background-size: cover;
   background-position: top;
   display: flex;
